@@ -6,5 +6,5 @@
 use strict;
 use warnings;
 
-# Print a message.
-print "Hello, World!\n";
+# Print best singer.
+print "Justin Bieber \o/ \n";
