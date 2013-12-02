@@ -7,4 +7,4 @@ use strict;
 use warnings;
 
 # Print a message.
-print "Hello, You!\n";
+print "Crisis? What Crisis?\n";
