@@ -6,5 +6,5 @@
 use strict;
 use warnings;
 
-# Print best singer.
-print "Justin Bieber \o/ \n";
+# Print song ever.
+print "Free as a Bird \n";
