@@ -6,5 +6,5 @@
 use strict;
 use warnings;
 
-# Print song ever.
+# Print best song ever.
 print "Free as a Bird \n";
